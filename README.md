@@ -1,4 +1,16 @@
-# Hello there, I'm Ch8c1! 👋
+<p align="center">
+  <img src="https://github.com/ch8c1/Ch8c1/raw/main/assets/header-github.gif" alt="Hello there, I'm Francisco">
+</p>
+
+<!--
+How to make the bio gif ?
+Thanks to [matyo91] (https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ch8c1&show_icons=true&theme=midnight-purple" />
 
