@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/ch8c1/Ch8c1/raw/main/assets/header-github.gif" alt="Hello there, I'm Francisco">
 </p>
-<br>
+
 <!--
 How to make the bio gif ?
 Thanks to [matyo91] (https://github.com/matyo91)
